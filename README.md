@@ -30,7 +30,7 @@ Data cleaning and preparation were performed using Power BI:
 
 - Duplicate Removal: Checked for and removed duplicate records.
 - Missing Values: Identified missing values and applied imputation or removal where necessary.
-- Standardization: Standardized categorical variables (e.g., department names) for consistency.
+- Column Quanlity : Comfirmed that our columns quality is 100% and free of any inconsistency 
 - Conditional Columns: Created new conditional columns to categorize data (e.g., creating age bands).
 - New Measures: Defined custom measures, such as average job satisfaction by department and attrition rate by job role.
 
