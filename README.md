@@ -6,11 +6,11 @@ This project uses HR data to examine factors contributing to employee attrition,
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Objectives](#objectives)
-- Data Description
-- Data Cleaning & Preparation
-- Power BI Visualizations & Measures
-- Key Insights
-- Conclusions & Recommendations
+- [Tool Used](#tool-used)
+- [Data cleaning and preparation](#data-cleaning-and-preparation ) 
+- [Power BI Visualizations and Measures](#power-bi-visualizations-and-measures)
+- [Key Insights](#key-insights)
+- [Conclusions and Recommendations](#conclusions-and-recommendations)
 
 ## Objectives
 The main objectives of this project are:
@@ -34,17 +34,19 @@ Data cleaning and preparation were performed using Power BI:
 - Conditional Columns: Created new conditional columns to categorize data (e.g., creating age bands).
 - New Measures: Defined custom measures, such as average job satisfaction by department and attrition rate by job role.
 
-## Power BI Visualizations & Measures
+## Power BI Visualizations and Measures
 
 Key visualizations and measures were developed in Power BI to highlight significant trends:
 
 - Attrition Rate by Department: Visualizes the attrition percentage across departments.
+  ![Screenshot (55)](https://github.com/user-attachments/assets/1af003ee-b39c-4f25-9131-104ad9694722)
+
 - Job Satisfaction by Job Role: Illustrates average satisfaction scores by job role.
 - Marital Status & Job Satisfaction: Shows the relationship between marital status and job satisfaction.
 - Age Band Distribution: Bar chart showing the distribution of employees across age bands.
 
 
-Key Insights
+## Key Insights
 This section summarizes the main insights gathered from the analysis:
 
 - Attrition Trends: High attrition rates observed in specific departments and job roles.
@@ -54,7 +56,7 @@ This section summarizes the main insights gathered from the analysis:
    
 
 
-### Conclusions & Recommendations
+## Conclusions and Recommendations
 
 Based on the analysis, we recommend the following:
 
