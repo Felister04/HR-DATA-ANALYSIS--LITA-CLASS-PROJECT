@@ -46,7 +46,10 @@ Key visualizations and measures were developed in Power BI to highlight signific
 
   
 - Marital Status & Job Satisfaction: Shows the relationship between marital status and job satisfaction.
-- Age Band Distribution: Bar chart showing the distribution of employees across age bands.
+![Screenshot (57)](https://github.com/user-attachments/assets/ae294f7b-ce6b-419f-95d3-1263f37b8e27)
+
+  
+- AttritionAttrition  Age Band Distribution: Bar chart showing the distribution of employees across age bands.
 
 
 ## Key Insights
