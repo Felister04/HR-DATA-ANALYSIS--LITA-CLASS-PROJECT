@@ -41,7 +41,10 @@ Key visualizations and measures were developed in Power BI to highlight signific
 - Attrition Rate by Department: Visualizes the attrition percentage across departments.
   ![Screenshot (55)](https://github.com/user-attachments/assets/1af003ee-b39c-4f25-9131-104ad9694722)
 
-- Job Satisfaction by Job Role: Illustrates average satisfaction scores by job role.
+- Attrition count by Job Satisfaction by Job Role: Illustrates satisfaction scores by job role.
+![Screenshot (56)](https://github.com/user-attachments/assets/0aa96b2e-4484-4bf6-9b66-534813a98803)
+
+  
 - Marital Status & Job Satisfaction: Shows the relationship between marital status and job satisfaction.
 - Age Band Distribution: Bar chart showing the distribution of employees across age bands.
 
