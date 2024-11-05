@@ -50,6 +50,7 @@ Key visualizations and measures were developed in Power BI to highlight signific
 
   
 - AttritionAttrition  Age Band Distribution: Bar chart showing the distribution of employees across age bands.
+![Screenshot (58)](https://github.com/user-attachments/assets/88028e4e-e4c9-49e5-8191-05809812cfb1)
 
 
 ## Key Insights
