@@ -49,18 +49,16 @@ Key visualizations and measures were developed in Power BI to highlight signific
 ![Screenshot (57)](https://github.com/user-attachments/assets/ae294f7b-ce6b-419f-95d3-1263f37b8e27)
 
   
-- AttritionAttrition  Age Band Distribution: Bar chart showing the distribution of employees across age bands.
+-Attrition based on Age group and Gender: Donut chart showing the distribution of attrition across age group and gender.
 ![Screenshot (58)](https://github.com/user-attachments/assets/88028e4e-e4c9-49e5-8191-05809812cfb1)
 
 
 ## Key Insights
 This section summarizes the main insights gathered from the analysis:
 
-- Attrition Trends: High attrition rates observed in specific departments and job roles.
-- Job Satisfaction Factors: Job satisfaction varies significantly by role and marital status.
-- Business Travel Impact: Frequent travel shows a correlation with higher attrition in certain roles.
-- Education and Job Role: Certain educational fields are more prevalent in specific job roles.
-   
+- Attrition Trends: High attrition rates observed in R&D departments with 14% out of the 16% attrition rate
+- Job Satisfaction Factors: Job satisfaction varies significantly by marital status, having more of the married people satisfied with thier job with job satisfaction count of 673, while the single had a count of 470 ans divored 327
+- Attrition count and Age group and gender:25-34 age group has the most attrition count of 112 and the male gender dominated it with 69 count
 
 
 ## Conclusions and Recommendations
@@ -68,5 +66,5 @@ This section summarizes the main insights gathered from the analysis:
 Based on the analysis, we recommend the following:
 
 - Implement targeted retention strategies in departments with high attrition.
-- Offer professional development programs to improve job satisfaction in roles with lower scores.
-- Review hiring strategies to better align educational background with job roles.
+- Offer professional development programs to improve job satisfaction in marital status with lower scores.
+- Review hiring strategies to better align gender with job roles.
